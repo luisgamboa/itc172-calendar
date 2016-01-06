@@ -1,6 +1,6 @@
 # itc172-calendar
 
-I worked on the Calendar assigment which covers:
+I worked on the Calendar assigment, which covers:
 
 - Create a new empty web site.
 - Add a Web form.
