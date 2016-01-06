@@ -1,0 +1,17 @@
+﻿body {
+}
+
+table tr th {
+background-color: #ffd800;
+color: #ffffff;
+border: solid 2px;
+
+}
+
+table tr td {
+    border: solid 2px #000000;
+}
+
+.result {
+    color: #00d781;
+}
